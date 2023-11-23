@@ -1,0 +1,54 @@
+
+
+.btn{
+    border:0;
+    background-color:seagreen;
+    padding:8px 15px;
+    font-size:17px;
+    margin-bottom:1rem;
+    color:#fff;
+    cursor:pointer;
+}
+.img{
+    max-width:100%;
+    width:500px;
+    border: 1px dashed green;
+}
+
+.recipe .redColor{
+    color:crimson;
+    font-weight:bolder;
+    font-size:22px;
+}
+
+.recipe p{
+    font-size:15px;
+}
+.recipe h2{
+    font-size:30px;
+}
+.recipe .strInstructions{
+    opacity:0.7;
+}
+.recipe .strArea{
+    font-weight:bold;
+}
+.recipe iframe{
+    width:700px;
+    max-width:100%;
+    height:400px;
+}
+.recipe .recipeList{
+    margin:3rem 0;
+}
+
+.recipe .showRecipe{
+    margin:2rem 0;
+}
+
+@media(max-width: 700px){
+    .recipe iframe{
+        max-width:100%;
+        height:260px;
+    }
+}
