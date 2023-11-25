@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "git@github.com:Bahriddin0707/FoodProject.git",
+  "homepage": "git@github.com:Bahriddin0707/Food-project.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
