@@ -1,0 +1,30 @@
+.header{
+    background: lightcoral;
+}
+.header .nav {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: lightcoral;
+    height: 70px;
+    line-height: 56px;
+    box-shadow:none;
+}
+.header .ul {
+    height:100%;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.header h2{
+    margin:0;
+}
+.header .Link{
+    display:block;
+    text-decoration: none;
+    color:#fff;
+    font-size:20px;
+    padding:7px 1rem;
+}
+
+
